@@ -1,0 +1,13 @@
+{
+  "name": "az-vacation-booking",
+  "version": "1.0.0",
+  "description": "AZ Vacation Booking Application with PostgreSQL backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}

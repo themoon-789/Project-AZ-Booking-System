@@ -1,0 +1,9 @@
+node_modules
+.git
+.DS_Store
+testsprite_tests
+*.ps1
+Code.gs
+app.html
+style.html
+test.html

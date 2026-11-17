@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.env
+# Exclude real employee seed data from Git for PDPA compliance
+db/init.sql
